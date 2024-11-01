@@ -22,7 +22,7 @@ WORKING_HOURS_START = 13  # 9 AM
 WORKING_HOURS_END = 22  # 5 PM
 
 # JQL query to retrieve tasks in the specified statuses
-
+# some comment
 # Jira REST API endpoint for searching issues
 
 # Initialize OpenAI API
